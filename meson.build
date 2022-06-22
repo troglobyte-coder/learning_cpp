@@ -1,4 +1,4 @@
-project('Learning Module', version: '1.0', meson_version: '>=0.62.0')
+project('Learning C++', version: '1.0', meson_version: '>=0.62.0')
 
 hotdoc = import('hotdoc')
 
